@@ -1,7 +1,6 @@
 # Escrow-Loan-Closing-Process
-### Part of real estate transactions where funds, documents, and property ownership are handled in a secure way, managed by a neutral third party (the escrow agent) to ensure a smooth closing
 
-The **escrow loan closing process** is a part of real estate transactions where funds, documents, and property ownership are handled in a secure way, managed by a neutral third party (the escrow agent) to ensure a smooth closing. Here’s a simplified overview:
+## The **escrow loan closing process** is a part of real estate transactions where funds, documents, and property ownership are handled in a secure way, managed by a neutral third party (the escrow agent) to ensure a smooth closing. Here’s a simplified overview:
 
 ### 1. **Opening Escrow**:
    - After the buyer and seller agree to the terms, an **escrow account** is opened with an escrow agent or company. This agent will hold funds, documents, and instructions from both parties until all conditions are met.
